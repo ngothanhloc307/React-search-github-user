@@ -1,0 +1,38 @@
+export default {
+  login: "ngothanhloc307",
+  id: 109213430,
+  node_id: "U_kgDOBoJ29g",
+  avatar_url: "https://avatars.githubusercontent.com/u/109213430?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/ngothanhloc307",
+  html_url: "https://github.com/ngothanhloc307",
+  followers_url: "https://api.github.com/users/ngothanhloc307/followers",
+  following_url:
+    "https://api.github.com/users/ngothanhloc307/following{/other_user}",
+  gists_url: "https://api.github.com/users/ngothanhloc307/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/ngothanhloc307/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/ngothanhloc307/subscriptions",
+  organizations_url: "https://api.github.com/users/ngothanhloc307/orgs",
+  repos_url: "https://api.github.com/users/ngothanhloc307/repos",
+  events_url: "https://api.github.com/users/ngothanhloc307/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/ngothanhloc307/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Ngo Thanh Loc",
+  company: "Freelancer",
+  blog: "google.com",
+  location: "VietNam",
+  email: null,
+  hireable: null,
+  bio: "Coder",
+  twitter_username: null,
+  public_repos: 14,
+  public_gists: 0,
+  followers: 0,
+  following: 0,
+  created_at: "2022-07-13T09:47:52Z",
+  updated_at: "2022-09-13T05:45:46Z",
+};
